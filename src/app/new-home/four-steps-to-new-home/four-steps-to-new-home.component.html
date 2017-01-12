@@ -1,0 +1,32 @@
+<div>
+  <h1>{{fourStepsToNewHomeComponent?.TitleH1}}</h1>
+  <h4>{{fourStepsToNewHomeComponent?.TitleH4}}</h4>
+  <p>{{fourStepsToNewHomeComponent?.FirstParagraph}}</p>
+  <img src="../../../assets/images/four-steps-to-new-home/one-year.png" alt="">
+  <p>{{fourStepsToNewHomeComponent?.SecondParagraph}}</p>
+  <p>{{fourStepsToNewHomeComponent?.ThirdParagraph}}</p>
+  <ul style="list-style-type: upper-roman;">
+  <div id="steps-list"
+         *ngFor="let item of fourStepsToNewHomeComponent?.StepsList"
+    >
+      <li><strong>{{item?.Title}}</strong></li>
+      <img src="../../../assets/images/four-steps-to-new-home/austrian-wooden-houses-timber-clad-inside-and-out-interior-decor.jpg" alt=""
+           *ngIf="item?.ImageUrl !== undefined"
+      >
+      <p>{{item?.Body}}</p>
+      <div *ngIf="item?.SubStepsList">
+        <ul style="list-style-type: none;">
+          <div id="sub-steps-list"
+               *ngFor="let subItem of item?.SubStepsList"
+          >
+            <li><strong>{{subItem?.Title}}</strong></li>
+            <img src="../../../assets/images/four-steps-to-new-home/austrian-wooden-houses-timber-clad-inside-and-out-interior-decor.jpg" alt="" width="30%"
+                 *ngIf="subItem?.ImageUrl !== undefined"
+            >
+            <p>{{subItem?.Body}}</p>
+          </div>
+        </ul>
+      </div>
+    </div>
+  </ul>
+</div>

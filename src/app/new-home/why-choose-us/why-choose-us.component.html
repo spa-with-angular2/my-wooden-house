@@ -1,0 +1,14 @@
+<div>
+  <h1>{{whyChooseUsComponentTexts?.TitleH1}}</h1>
+  <h4>{{whyChooseUsComponentTexts?.TitleH4}}</h4>
+  <p>{{whyChooseUsComponentTexts?.FirstParagraph}}</p>
+
+  <ul>
+    <div id="reasons-list"
+         *ngFor="let item of whyChooseUsComponentTexts?.ReasonsList"
+    >
+      <li><strong>{{item?.Bullet}}</strong></li>
+      <p>{{item?.Text}}</p>
+    </div>
+  </ul>
+</div>

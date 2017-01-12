@@ -1,0 +1,166 @@
+{
+  "Nav": {
+    "NewHome": {
+      "Value": "A new Home",
+      "FourStepsToNewHome": "For steps to a new Home",
+      "WhyChooseUs": "Why choose AMEKS13",
+      "PriceList": "Price list"
+    },
+    "About": {
+      "Value": "About",
+      "AboutTheCompany": "About the company",
+      "Services": "Services",
+      "Financing": "Financing",
+      "OurPartners": "Our partners"
+    },
+    "Products": {
+      "Value": "Products",
+      "SeeAll": "See all",
+      "Bungalows": "Bungalows",
+      "Houses": "Houses",
+      "GardenCabins": "Cabins",
+      "Garages": "Garages"
+    },
+    "Gallery": {
+      "Value": "Gallery",
+      "SeeAll": "See all",
+      "Bungalows": "Bungalows",
+      "Houses": "Houses",
+      "GardenCabins": "Cabins",
+      "Garages": "Garages"
+    },
+    "EnergyEfficiency": {
+      "Value": "Energy-efficiency",
+      "SaveOnBills": "Save on bills",
+      "Insulation": "Insulation",
+      "Ventilation": "Ventilation"
+    },
+    "Technology": {
+      "Value": "Technology info",
+      "WhatIsModularTechnology": "What is modular technology",
+      "MaterialsUsed": "Materials used",
+      "TheAdvantages": "The advantages",
+      "TheBuildingProcess": "The building process"
+    },
+    "Contacts": {
+      "Value": "Contacts"
+    }
+  },
+
+  "HomePage": {
+    "TitleH1": "My modern wooden house",
+    "TitleH4": "We help you enjoy it now!",
+    "BenefitsList": [
+      "Easy and fast to build",
+      "Energy saving",
+      "Natural materials",
+      "Save time and resources",
+      "Enjoy your ne home",
+      "New new new"
+    ]
+  },
+
+  "NewHomePages": {
+    "FourStepsToNewHomePage": {
+      "TitleH1": "Four steps to a new home",
+      "TitleH4": "Four steps to a new home",
+      "FirstParagraph": "As a result of more than 30 years of experience, we have perfected house building to such a degree that for you the predominant factor is the fun derived from designing your new home. You can leave the rest to us and that’s a promise.",
+      "SecondParagraph": "The majority of our clients take roughly a year for the house construction process. However, for quick decision-makers, we have even completed a home in three months. ",
+      "ThirdParagraph": "Every plot of land is different and therefore our building advisors like to suggest a joint visit to the site in order to obtain a precise picture of the surroundings.",
+      "StepsList": [
+        {
+          "Title": "Consulting and planning",
+          "ImageUrl": "",
+          "Body": "",
+          "SubStepsList": [
+            {
+              "Title": "Tell us your wishes",
+              "ImageUrl": "",
+              "Body": "Competent consulting begins with questions regarding your family’s lifestyle and future planning. A concept that ensures your satisfaction today, tomorrow and the day after can only be created through a knowledge of your personal requirements and budget."
+            },
+            {
+              "Title": "Fulfil building regulations",
+              "ImageUrl": "",
+              "Body": "Building regulations and directives can vary from region to region and even district to district. They demand a precise knowledge of the construction law provisions and therefore, should you already possess a plot of land, we will be pleased to determine what type of house you will be allowed to build upon it."
+            },
+            {
+              "Title": "Use grants to the full.",
+              "ImageUrl": "",
+              "Body": "Our building advisors also have detailed know-how with regard to the regional regulations relating to the topic of grants. All VARIO-HAUS homes comply with the lowest energy index level and thus offer the ideal prerequisites for the full use of the various types of funding available."
+            }
+          ]
+        },
+        {
+          "Title": "A foundation that you can build on.",
+          "ImageUrl": "",
+          "Body": "As the general contractor for your project, VARIO-HAUS offers “master-builder foundations” for your house. This means that you can avoid interface problems and top quality is guaranteed from the greenfield phase to the finished VARIO-HAUS home. You can select from a thermo-ferroconcrete foundation slab, utility or waterproof concrete basement and VARIO-HAUS does the rest."
+        },
+        {
+          "Title": "Free, individual home planning with complete control.",
+          "ImageUrl": "",
+          "ThirdBody": "Our building advisors continue to optimise the house plans until you are entirely satisfied. At any point during the process, the advisor can tell you what services are linked to which costs. This means that you have complete control. If required, during the planning phase you can receive an energy certificate calculation free of charge. As a result, even before the contract signing you can complete a thorough check to see if the selected architecture and fittings will allow an application for governmental funding, or if additional measures must be implemented. Consulting and planning are basically free and subsequently flow into detailed planning including the house layout and 3D views. Only in the case of extensive planning do we retain the right to request you to contribute to the resultant costs, which in the case of a house purchase from VARIO-HAUS will be returned. Should such a situation arise we provide clear information."
+        },
+        {
+          "Title": "Quotation and purchasing contract with a 1-year fixed price guarantee ",
+          "ImageUrl": "",
+          "Body": "On the basis of the detailed planning, we prepare a binding quotation. In line with absolute cost transparency, this takes into account every single construction component, every aspect of the fittings and logically any special wishes. Following your consent, the purchasing contract is then drawn up and signed. We also offer you a 12-month fixed guarantee on the purchase price. Congratulations, you are now a homeowner! "
+        }
+      ]
+    },
+    "WhyChooseUsPage": {
+      "TitleH1": "Why choose AMEKS13",
+      "TitleH4": "Why choose AMEKS13",
+      "FirstParagraph": "There are many reasons why it’s worth choosing a AMEKS13 house:",
+      "ReasonsList": [
+        {
+          "Bullet": "A fixed price guarantee",
+          "Text": "We will tell you how much your house will cost right at the start and guarantee this fixed price for 12 months. Plenty of choice"
+        },
+        {
+          "Bullet": "Plenty of choice",
+          "Text": "We offer over 50 standard house designs to choose from, both modern and contemporary; these standard designs can often be modified if you have specific needs or requests."
+        },
+        {
+          "Bullet": "Energy-efficiency",
+          "Text": "Green living and low energy bills are guaranteed with our range of building and installation solutions which include superb thermal insulation, solar panels, heat pumps or photovoltaic panels."
+        },
+        {
+          "Bullet": "Complete turn-key start-to-finish service",
+          "Text": "Every detail of your Dan-Wood house is professionally managed, from design and planning permission, foundations, assembly and technical installation, right through to interior decoration and fittings."
+        },
+        {
+          "Bullet": "Quality Assurance",
+          "Text": "We only use the very best building materials from recognised suppliers to build Dan-Wood houses; all work is carried out by our qualified assembly and finishing teams – they’ll not leave the site until everything is finished and you are completely satisfied."
+        },
+        {
+          "Bullet": "Short construction times",
+          "Text": "You’ll be able to move into your Dan-Wood house in only eight to 12 weeks from the start of construction."
+        },
+        {
+          "Bullet": "Peace of mind",
+          "Text": "We give a 20 years’ construction warranty on all Dan-Wood houses."
+        },
+        {
+          "Bullet": "Experience",
+          "Text": "Over 6,000 Dan-Wood houses have now been built across Europe – so you’re in safe hands!"
+        },
+        {
+          "Bullet": "Satisfied customers",
+          "Text": "We have many happy customers living in Dan-Wood houses across the UK. Many are happy to share their opinions on the build quality and superb standard of living."
+        }
+      ]
+    }
+  },
+
+  "AboutPages": {
+    "AboutTheCompany": {
+      "TitleH1": "Title h1 about the company",
+      "TitleH4": "Title h4 about the company"
+    }
+  }
+
+
+
+
+
+}

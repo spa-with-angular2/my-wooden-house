@@ -1,0 +1,62 @@
+{
+  "Nav": {
+    "NewHome": {
+      "Value": "Нов Дом",
+      "FourStepsToNewHome": "Четири стъпки към нов дом",
+      "WhyChooseUs": "Защо да изберете АМЕКС13",
+      "PriceList": "Цени"
+    },
+    "About": {
+      "Value": "За нас",
+      "AboutTheCompany": "За фирмата",
+      "Services": "Услуги",
+      "Financing": "Финансиране",
+      "OurPartners": "Нашите партньори"
+    },
+    "Products": {
+      "Value": "Продукти",
+      "SeeAll": "Виж всички",
+      "Bungalows": "Бунгала",
+      "Houses": "Къщи",
+      "GardenCabins": "Бараки за двора",
+      "Garages": "Гаражи"
+    },
+    "Gallery": {
+      "Value": "Галерия",
+      "SeeAll": "Виж всички",
+      "Bungalows": "Бунгала",
+      "Houses": "Къщи",
+      "GardenCabins": "Бараки за двора",
+      "Garages": "Гаражи"
+    },
+    "EnergyEfficiency": {
+      "Value": "Енергийна-ефективност",
+      "SaveOnBills": "Спестете от сметки",
+      "Insulation": "Изолация",
+      "Ventilation": "Вентилация"
+    },
+    "Technology": {
+      "Value": "Изполвани технологии",
+      "WhatIsModularTechnology": "Какво е модулна технология",
+      "MaterialsUsed": "Използвани материали",
+      "TheAdvantages": "Предимства",
+      "TheBuildingProcess": "Строителният процес"
+    },
+    "Contacts": {
+      "Value": "Контакт"
+    }
+  },
+
+  "NewHomePage": {
+    "TitleH1": "Моята модерна дървена къща",
+    "TitleH4": "Ние ще ти помогнем да й се насладиш сега!",
+    "BenefitsList": [
+      "Лесно и бързо изграждане",
+      "Спестявате енергия",
+      "Естествени материали",
+      "Спестете време и ресурси",
+      "Насладете се на вашия дом",
+      "сасас"
+    ]
+  }
+}

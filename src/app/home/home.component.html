@@ -1,0 +1,19 @@
+<div class="home-page">
+  <div class="img-wrapper">
+    <img class="img-outside" src="../../assets/images/pexels-photo.png" alt="">
+    <div class="box">
+      <h1>{{homePageTexts?.TitleH1}}</h1>
+      <h4>{{homePageTexts?.TitleH4}}</h4>
+      <div class="big">
+        <div class="small small-img">
+          <!--<img class="img-in" src="../../assets/images/modern-wooden-house-small.jpg" alt="">-->
+        </div>
+        <div class="small">
+          <ul>
+            <li *ngFor="let item of homePageTexts?.BenefitsList">{{item}}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
